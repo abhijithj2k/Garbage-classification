@@ -1,6 +1,6 @@
 # Waste Image Classification: ResNet50 vs EfficientNetB3 vs YOLOv11
 
-A UTS project comparing three transfer-learning approaches for sorting waste images into six classes:
+A UTS team project comparing three transfer-learning approaches for sorting waste images into six classes:
 biodegradable, cardboard, glass, metal, paper and plastic.
 
 ## Notebooks
